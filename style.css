@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url("fitrupesh.jpg");
+    background-size: 100%;
+    color: hsla(9, 20%, 93%, 0.995);
+}
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 35px;
+}
+nav h1{
+    font-size: 45px;
+}
+nav ul{
+    color: white;
+}
+ul button{
+    width: 100px;
+    height: 37px;
+    background-color: rgb(255, 38, 0);
+    color: rgb(0, 34, 255);
+    font-size: 19px;
+    border: none;
+    border-radius: 3px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+ul li a{
+    margin-inline: 30px;
+    font-size: 25px;
+}
+.text{
+    margin-left:7% ;
+    margin-top: 120px;
+}
+.text h1{
+    font-size:110px;
+
+}
+.text p{
+    font-size:70px;
+    margin-top: right;
+}
+.text button{
+    width: 170px;
+    height: 45px;
+    background-color: rgb(0, 255, 76);
+    font-size:30px;
+    color: white;
+    border: none;
+    margin-top: 50px;
+}
+
+
+
